@@ -4,7 +4,7 @@
 - I'm a 4th year computer engineering student.  
   
 
--  I'm currently learning as much as I get.  
+-  I'm currently learning as much as I can.  
   
 
 - I’m looking to collaborate on any interesting projects.  
