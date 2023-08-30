@@ -14,8 +14,6 @@
 
 
 ## My Skill Set  
-<table><tr>
-<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
@@ -26,8 +24,6 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
