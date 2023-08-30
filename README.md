@@ -54,7 +54,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Polybotumian&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Polybotumian&&style=flat-square&&color=green" align="center" />
 </div>  
   
 <br/>  
