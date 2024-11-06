@@ -1,6 +1,6 @@
 # Yiğit Leblebicier
 
-I'm a 4th year computer engineering student. I'm constantly learning new technologies & trying to build applications. I've mainly focused on backend development.
+I'm constantly learning new technologies & trying to build applications. I've mainly focused on backend development.
 
 ## Experiences
 <div align="center">  
